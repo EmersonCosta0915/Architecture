@@ -113,12 +113,6 @@ The goal is to learn and share knowledge and use it as reference for new project
 
 </details>
 
-## PACKAGES
-
-**Source:** [https://github.com/rafaelfgx/DotNetCore](https://github.com/rafaelfgx/DotNetCore)
-
-**Published:** [https://www.nuget.org/profiles/rafaelfgx](https://www.nuget.org/profiles/rafaelfgx)
-
 ## LAYERS
 
 **Web:** Frontend and Backend.
